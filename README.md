@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![Level](https://img.shields.io/badge/B.Tech%20CSE-3rd%20Semester-orange.svg)
 
 Two beginner-friendly Python console applications built to practice **string manipulation** and **user-defined functions**.
 
@@ -225,5 +224,4 @@ Encrypted Text: Lxfopv ef Rnhr
 
 ## Author
 
-**[Your Name]**
-B.Tech CSE — 3rd Semester
+[SHRIJIT MUKHERJEE](https://github.com/INSANE0PAPA)

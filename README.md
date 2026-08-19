@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-
+                                                                                                                                                                                                                                                                                                                                   
 Two beginner-friendly Python console applications built to practice **string manipulation** and **user-defined functions**.
 
 | # | Project | Core Concept |
@@ -223,5 +223,8 @@ Encrypted Text: Lxfopv ef Rnhr
 - Add more ciphers (Atbash, Rail Fence, etc.)
 
 ## Author
+Payel Das
+
+
 
 [SHRIJIT MUKHERJEE](https://github.com/INSANE0PAPA)
